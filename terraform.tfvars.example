@@ -1,0 +1,5 @@
+git_hub_repo_web_hook = "https://api.github.com/repos/<USER>/<REPO>/hooks"
+git_hub_token         = "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+git_hub_user          = "USER"
+git_hub_repo          = "REPO"
+ip                    = "XXX.XXX.XXX.XXX"
